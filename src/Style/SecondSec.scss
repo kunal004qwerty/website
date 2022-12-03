@@ -1,0 +1,16 @@
+.secton-two {
+  background-image: url("https://as2.ftcdn.net/v2/jpg/01/18/64/65/1000_F_118646509_vx21Yju0WFJMMec5hXXBMU61O6pd2Jbo.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .content {
+    position: absolute;
+    h1 {
+      letter-spacing: 3px;
+    }
+    p {
+      color: aliceblue;
+    }
+  }
+}
